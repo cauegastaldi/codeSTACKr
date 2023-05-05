@@ -3,7 +3,7 @@
 ## I'm a Full-Stack Developer!!
 
 - 🔭 I'm from Brazil
-- 📚 I'm studying at Instituto Federal de São Paulo (IFSP), campus São Carlos
+- 📚 I'm studying Systems Analysis and Development at Instituto Federal de São Paulo (IFSP), campus São Carlos
 - 💻 I’m currently learning React and Kotlin
 - ⚡ Fun fact: I love to play videogame and watch movies
 
