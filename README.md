@@ -33,7 +33,7 @@
 
 ---
 
-  <img align="left" alt="cauegastaldi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cauegastaldi&show_icons=true&hide_border=false&theme=aura" />
+  <img align="left" alt="cauegastaldi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cauegastaldi&show_icons=true&hide_border=true&theme=algolia&bg_color=00000000" />
 
 
 [linkedin]: https://linkedin.com/in/codeSTACKr
