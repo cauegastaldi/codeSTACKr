@@ -31,9 +31,20 @@
 <br />
 <br />
 
----
+<!-- Statistics -->
 
-  <img align="left" alt="cauegastaldi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cauegastaldi&show_icons=true&hide_border=true&theme=algolia&bg_color=00000000" />
 
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+<div class="stats" align="center">
+
+![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauegastaldi&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=cauegastaldi&count_private=true&theme=algolia&border_radius=20)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cauegastaldi&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>
 
 [linkedin]: https://linkedin.com/in/codeSTACKr
