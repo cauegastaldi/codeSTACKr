@@ -33,18 +33,58 @@
 
 <!-- Statistics -->
 
+### Projects and Dev Stuffs:
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauegastaldi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauegastaldi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&&theme=algolia"/>
+</details>
 
-<div class="stats" align="center">
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauegastaldi&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cauegastaldi&hide_border=true&&theme=algolia" />
+</details>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=cauegastaldi&count_private=true&theme=algolia&border_radius=20)
+<details>
+  <summary><b>🧑 My Main Projects</b></summary>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cauegastaldi&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+   	<tr>
+	      <td><a href="https://github.com/cauegastaldi/game-of-thrones-wiki"><b>Game Of Thrones Wiki</b></a></td>
+              <td><img alt="Language" src="https://img.shields.io/github/languages/top/cauegastaldi/game-of-thrones-wiki?style=flat-square"/></td>
+      </tr> 
+      <tr>
+	      <td><a href="https://github.com/cauegastaldi/pw2-clinica-medica"><b>Medic Clinical REST</b></a></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/cauegastaldi/pw2-clinica-medica?style=flat-square"/></td>
+      </tr>
+     <tr>
+	      <td><a href="https://github.com/cauegastaldi/movie_theater"><b>Movie Theater</b></a></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/cauegastaldi/movie_theater?style=flat-square"/></td>
+      </tr>
+       <tr>
+	      <td><a href="https://github.com/cauegastaldi/Aluguel_de_carros"><b>Car Rent System</b></a></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/cauegastaldi/Aluguel_de_carros?style=flat-square"/></td>
+      </tr>
+       <tr>
+	      <td><a href="https://github.com/cauegastaldi/SplitTheBill"><b>Split Bill System</b></a></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/cauegastaldi/SplitTheBill?style=flat-square"/></td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
 
 [linkedin]: https://linkedin.com/in/codeSTACKr
