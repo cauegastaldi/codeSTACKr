@@ -70,6 +70,10 @@
 	      <td><a href="https://github.com/isarnf/CTruco/tree/new-bot/bot-impl/src/main/java/com/caueisa/destroyerbot"><b>BOT de Truco</b></a></td>
               <td>Java</td>
       	</tr>
+    	<tr>
+	      <td><a href="https://github.com/HDK101/sistema-add-the-new-soul"><b>Sistema de Gerenciamento de Inventário</b></a></td>
+              <td>Java</td>
+      	</tr>
    	<tr>
 	      <td><a href="https://github.com/cauegastaldi/game-of-thrones-wiki"><b>Game Of Thrones Wiki</b></a></td>
               <td>HTML, CSS, Node.JS, React.JS, SQL</td>
