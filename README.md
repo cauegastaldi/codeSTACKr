@@ -64,7 +64,7 @@
     <tbody>
      	<tr>
 	      <td><a href="https://github.com/cauegastaldi/cinematography_world"><b>Cinematography World (Análise de Filmes e Séries)</b></a></td>
-              <td><img alt="Language" src="https://img.shields.io/github/languages/top/cauegastaldi/cinematography_world?style=flat-square"/></td>
+	      <td>HTML, CSS, Node.JS, React.JS, SQL</td>
       	</tr>
 	<tr>
 	      <td><a href="https://github.com/isarnf/CTruco/tree/new-bot/bot-impl/src/main/java/com/caueisa/destroyerbot"><b>BOT de Truco</b></a></td>
@@ -72,15 +72,15 @@
       	</tr>
    	<tr>
 	      <td><a href="https://github.com/cauegastaldi/game-of-thrones-wiki"><b>Game Of Thrones Wiki</b></a></td>
-              <td><img alt="Language" src="https://img.shields.io/github/languages/top/cauegastaldi/game-of-thrones-wiki?style=flat-square"/></td>
+              <td>HTML, CSS, Node.JS, React.JS, SQL</td>
       </tr> 
       <tr>
 	      <td><a href="https://github.com/cauegastaldi/pw2-clinica-medica"><b>Medic Clinical REST</b></a></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/cauegastaldi/pw2-clinica-medica?style=flat-square"/></td>
+       	      <td><img alt="Language" src="https://img.shields.io/github/languages/top/cauegastaldi/pw2-clinica-medica?style=flat-square"/></td>
       </tr>
      <tr>
 	      <td><a href="https://github.com/cauegastaldi/movie_theater"><b>Movie Theater</b></a></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/cauegastaldi/movie_theater?style=flat-square"/></td>
+              <td>HTML, CSS, Spring Boot</td>
       </tr>
        <tr>
 	      <td><a href="https://github.com/cauegastaldi/Aluguel_de_carros"><b>Car Rent System</b></a></td>
