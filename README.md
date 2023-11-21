@@ -65,7 +65,11 @@
      	<tr>
 	      <td><a href="https://github.com/cauegastaldi/cinematography_world"><b>Cinematography World (Análise de Filmes e Séries)</b></a></td>
               <td><img alt="Language" src="https://img.shields.io/github/languages/top/cauegastaldi/cinematography_world?style=flat-square"/></td>
-      	</tr> 
+      	</tr>
+	<tr>
+	      <td><a href="https://github.com/isarnf/CTruco/tree/new-bot/bot-impl/src/main/java/com/caueisa/destroyerbot"><b>Cinematography World (Análise de Filmes e Séries)</b></a></td>
+              <td>Java</td>
+      	</tr>
    	<tr>
 	      <td><a href="https://github.com/cauegastaldi/game-of-thrones-wiki"><b>Game Of Thrones Wiki</b></a></td>
               <td><img alt="Language" src="https://img.shields.io/github/languages/top/cauegastaldi/game-of-thrones-wiki?style=flat-square"/></td>
