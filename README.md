@@ -91,10 +91,14 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/cauegastaldi/Aluguel_de_carros?style=flat-square"/></td>
       </tr>
        <tr>
-	      <td><a href="https://github.com/cauegastaldi/SplitTheBill"><b>Split Bill System</b></a></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/cauegastaldi/SplitTheBill?style=flat-square"/></td>
+	      	<td><a href="https://github.com/cauegastaldi/SplitTheBill"><b>Split Bill System</b></a></td>
+        	<td>Kotlin</td>
       </tr>
-	     <tr>
+	<tr>
+		<td><a href="https://github.com/cauegastaldi/SharedList"><b>Shared List System</b></a></td>
+        	<td>Kotlin</td>
+     	</tr>
+	<tr>
 	      <td><a href="https://github.com/cauegastaldi/netflix-interface-clone"><b>Netflix Interface Clone</b></a></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/cauegastaldi/netflix-interface-clone?style=flat-square"/></td>
       </tr>
