@@ -1,11 +1,10 @@
 # Hi there, I'm Cauê 👋 
 
-## I'm a Full-Stack Developer!!
+## I'm a back-end Developer!!
 
 - 🔭 I'm from Brazil
 - 📚 I'm studying Systems Analysis and Development at Instituto Federal de São Paulo (IFSP), campus São Carlos
-- ⚡ Fun fact: I love to play videogame and watch movies
-- ❤️ I love back-end and front-end development
+- ❤️ I love back-end development
 
 ### Connect with me:
 
